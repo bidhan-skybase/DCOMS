@@ -1,0 +1,4 @@
+<classpath>
+    <classpathentry kind="src" output="bin" path="src"/>
+    <classpathentry kind="lib" path="lib/*"/>
+</classpath>
